@@ -1,2 +1,2 @@
 # Snapchat-Clone
-Snapchat-Clone for learning cool stuf in react.
+Snapchat-Clone for learning cool stuff in react.
